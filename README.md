@@ -6,6 +6,5 @@
 
 ## Future Update
 ### Support:  
-* Openwrt -> Openwrt
-* Linux - Openwrt
-* Openwrt -> Linux
+* To Openwrt
+* To Linux
