@@ -4,7 +4,6 @@
 **Need to save public key to .ssh/pub.rsa.pub first**
 
 
-## Future Update
-### Support:  
+## Support:  
 * To Openwrt
 * To Linux
