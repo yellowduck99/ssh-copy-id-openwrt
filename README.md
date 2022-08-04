@@ -7,3 +7,6 @@
 ## Support:  
 * To Openwrt
 * To Linux
+
+
+## If want to use for linux -> openwrt, need to edit ```#!/bin/sh``` to ```#!/bin/bash```

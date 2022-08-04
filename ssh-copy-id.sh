@@ -10,7 +10,6 @@ fi
 echo "Your case number:"
 echo "1: To opnwrt"
 echo "2: To linux"
-#echo "1: linux to opnwrt"
 
 
 read OPTION
@@ -27,9 +26,6 @@ case $OPTION in
 	;;
 esac
 
-
-
-#ssh ${HOST} "tee -a ~/.ssh/authorized_keys" < ~/.ssh/id_rsa.pub
 
 echo ''
 
